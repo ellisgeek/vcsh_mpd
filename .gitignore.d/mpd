@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/mpd
+!/.config/mpd/mpd.conf
+!/.gitignore.d
+!/.gitignore.d/mpd
